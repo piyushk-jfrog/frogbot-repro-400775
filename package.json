@@ -2,8 +2,12 @@
   "name": "frogbot-repro-400775",
   "version": "1.0.0",
   "private": true,
-  "description": "Clean project - no vulnerable deps",
   "dependencies": {
-    "is-number": "7.0.0"
+    "is-number": "7.0.0",
+    "tar": "4.4.13",
+    "shelljs": "0.8.4",
+    "path-parse": "1.0.6",
+    "glob-parent": "5.1.0",
+    "trim-newlines": "3.0.0"
   }
 }
