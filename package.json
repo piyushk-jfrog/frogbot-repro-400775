@@ -1,0 +1,9 @@
+{
+  "name": "frogbot-repro-400775",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clean project - no vulnerable deps",
+  "dependencies": {
+    "is-number": "7.0.0"
+  }
+}
