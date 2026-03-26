@@ -1,0 +1,13 @@
+- params:
+    git:
+      repoName: frogbot-repro-400775
+      branches:
+        - main
+    scan:
+      projects:
+        - workingDirs:
+            - .
+          installCommand: npm install
+        - workingDirs:
+            - .
+          installCommand: poetry install
