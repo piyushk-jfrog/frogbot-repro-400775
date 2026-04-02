@@ -1,9 +1,5 @@
 - params:
     scan:
       projects:
-        - workingDirs:
-            - .
-          installCommand: poetry install
-        - workingDirs:
-            - .
-          installCommand: npm install
+        - installCommand: npm install
+        - installCommand: poetry install
