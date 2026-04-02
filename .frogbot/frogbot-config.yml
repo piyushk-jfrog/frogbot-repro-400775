@@ -1,5 +1,0 @@
-- params:
-    scan:
-      projects:
-        - installCommand: npm install
-        - installCommand: poetry install
